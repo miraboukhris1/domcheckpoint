@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+        background-color: #f9f6f2;
+}
+.card-img-top{
+    border-radius: 50px;
+    padding: 20px;
+}
+.card{
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+
+
+h3,h5{
+    color: rgb(0, 91, 228);
+}
+.navbar-brand{
+    color:white;
+}
+.container-fluidnav-link active {
+    color:white;
+}
+/*body{
+    background-color: rgb(246, 244, 248);
+}
+.navbar-brand {
+    color:white;
+}
+.nav-link{
+    color:white;
+}*/
+/* <section class="cards">
+            <!-- card 1 -->
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="https://m.media-amazon.com/images/I/81gQgSIrRKL._AC_UF350,350_QL50_.jpg" class="card-img-top" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title"> manga</h5>
+                        <p class="card-text">Black Butler, Vol. 1 (Black Butler, 1).</p>
+                        <i class="fas fa-plus-circle"></i>
+                        <span class="qute">0</span>
+                        <i class="fas fa-minus-circle"></i>
+                        <i class="fas fa-trash-alt"></i>
+                        <i class="fas fa-heart"></i>
+                            <span class="unitt-price">40</span>
+                            <span>DT</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+                <!-- card 2 -->
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="https://m.media-amazon.com/images/I/61GcMZpiunL.jpg" class="card-img-top" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">figure dazai</h5>
+                        <p class="card-text">Orange Rouge Bungo Stray Dogs: Osamu Dazai Nendoroid Action Figure.</p>
+                        <i class="fas fa-plus-circle"></i>
+                        <span class="qute">0</span>
+                        <i class="fas fa-minus-circle"></i>
+                        <i class="fas fa-trash-alt"></i>
+                        <i class="fas fa-heart"></i>
+                            <span class="unitt-price">325</span>
+                            <span>DT</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <!-- card 2 -->
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                    <img src="https://m.media-amazon.com/images/I/51xsnm726sL._AC_UY1100_.jpg" class="card-img-top" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">hoddie</h5>
+                        <p class="card-text"> Naruto Itachi Uchiha Unisex Anime Hoodie 100% Cotton Anime Hoodies 350 GSM Double Bio-Washed Anime Hoodies.</p>
+                        <i class="fas fa-plus-circle"></i>
+                        <span class="qute">0</span>
+                        <i class="fas fa-minus-circle"></i>
+                        <i class="fas fa-trash-alt"></i>
+                        <i class="fas fa-heart"></i>
+                            <span class="unitt-price">220</span>
+                            <span>DT</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+            <!-- Total price -->
+        <div class="total-price-container">
+            <span>Total Price :</span>
+            <span id="total-price"> 0 </span>
+            <span>$</span>
+        </div>
+    </main>
+
+
+
+
+
+
+        <!-- JS script -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+
+    <script src="./main.js"></script>
+</body>
+</html>*/
